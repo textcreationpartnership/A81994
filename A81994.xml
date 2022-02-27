@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble proposal that may intirely check and restrain, the growth of highway-men, foot-pads, house-breakers, shop-lifters and other incendiary's, by threatening letters; and at no charge to the government, but in case of a war, may be an hundred thousand a year, in the way of trade of this kingdom. / By Joseph Davies.</title>
+            <author>Davies, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81994</idno>
+            <idno type="STC">Wing D422B</idno>
+            <idno type="STC">ESTC N72228</idno>
+            <idno type="EEBO-CITATION">45578313</idno>
+            <idno type="OCLC">ocm 45578313</idno>
+            <idno type="VID">172248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble proposal that may intirely check and restrain, the growth of highway-men, foot-pads, house-breakers, shop-lifters and other incendiary's, by threatening letters; and at no charge to the government, but in case of a war, may be an hundred thousand a year, in the way of trade of this kingdom. / By Joseph Davies.</title>
+                  <author>Davies, Joseph.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by L. How, in Petticoat-Lane.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[ca. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Wing (2nd ed.) attributes to Joseph Davis.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Galleys --  Great Britain.</term>
+               <term>Crime prevention --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172248:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>An Humble PROPOSAL That may intirely Check <hi>and</hi> Reſtrain, The GROWTH of <hi>Highway-men, Foot-pads, Houſe-break<g ref="char:EOLhyphen"/>ers, Shop-lifters</hi> and other <hi>Incen<g ref="char:EOLhyphen"/>diary's,</hi> by threatening Letters; and at no Charge to the Govern<g ref="char:EOLhyphen"/>ment, but in caſe of a <hi>War,</hi> may be an Hundred Thouſand a <hi>Year,</hi> in the way of <hi>Trade</hi> of this Kingdom.</p>
+            <p>By <hi>JOSEPH DAVIES.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed, by <hi>L. How,</hi> in <hi>Petticoat-Lane.</hi>
+            </p>
+            <pb facs="tcp:172248:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:172248:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:172248:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <hi>An Humble PROPOSAL</hi> &amp;c. It is moſt Humby Propoſed,</head>
+            <p>THAT if his Majeſty and the Nation, will be pleaſed to allow of a few Galleys to be built at, or ſent to <hi>Gibralter</hi> or <hi>Port Mayhone</hi> to be Man'd with Convicts, ſuch as are Caft for Tran<g ref="char:EOLunhyphen"/>ſportation; the bare apprehention of being made a Galley Slave off will ſtrike ſuch a Terror into the Minds of thoſe Villians; ſuch as Highway-men, Foot<g ref="char:EOLhyphen"/>pads, Houſe-breakers, Shop-lifters, and all Incendiarys, whether by threarning to Murther the Perſons, or to Burn their Houſes, which has ſuch ſhocking Reflections; and are Crimes of ſo black a Nature, that the very mentioning of them has been terrifying. And theſe who like Locuſt, does ſwarm in our Roads and Streets, and infects all our Places to ſuch a degree that honeſt People are not ſafe, either at Home or Abroad; but when theſe vile People ſhall know, to there dread, that they ſhall inſtead of Tranſportation be ſent to the Galleys without any hopes of Freedom till their Sentance is expired; It will certainly put a Stop to the further growth of Thieveing and Villiany, for it will have ſuch terrour upon their Minds, of the Rigor that thoſe <hi>Patterroons</hi> or Officers of thoſe Galleys, exerciſes over thoſe unfortunate People, who for the Punniſhment of their Crimes are thus dealt with, and would not be reſtrain<g ref="char:EOLhyphen"/>ed by any milder <hi>METHODS.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:172248:3"/>
+               <!-- PDF PAGE 9 -->
+This with all Humble Submiſſion, ſeems a far better way than to take away the Lives of ſo many hale young Peo<g ref="char:EOLhyphen"/>ple, that are cut off before they have liv'd out half their Days, that by this Propoſal might be ſaved, and brought to a Sence of their paſt Follys, in following of an Extrava<g ref="char:EOLhyphen"/>gant Vicious courſe of Life; and may convince them and Others, of the real Advantages of an Honeſt Sober way of Living, that they may become ſerviceable to their Coun<g ref="char:EOLhyphen"/>try in their ſeveral Trades and Capacitys</p>
+            <p>Now I ſhall beg leave to Offer ſome of the Services, that theſe Convict thus confin<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to the Galleys may be of; As <hi>Fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt,</hi> that they have by their repeated Robberies and other Villainy's, wrong'd the Nation in General; they may be made uſe off as a National Service: which in ſome meaſure may attone for the Miſchiefs they have done in the courſe of their paſt Lives.</p>
+            <p>And in caſe of a <hi>War</hi> with any Nation that Trades in the <hi>Straights,</hi> we having of <hi>Gibral<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> can with our Galleys in Conjunction with our Men of War, Command all Ships paſ<g ref="char:EOLhyphen"/>ſing or repaſſing in thoſe Seas, rendering their Trade ſo Difficult to them, and with ſuch advantage to us, that we of this Kingdom will ſoon find the many and great Proffits that will ariſe by what is Offered.</p>
+            <p>
+               <hi>For as their is a ſtrong Current ſets always through the Gut, ſo that if it proves Calm, which is very frequent in thoſe Parts; ſo that Ships that have been comeing through, have drove paſt</hi> Gibralter, <hi>as high as</hi> Malago; <hi>and others that have been comeing down, have met with theſe Calms, and Ships of great Value which could not fetch into the Bay, and ſo Expoſed to great Dangers, and ſome that have been took by the</hi> Spaniards <hi>(who always kept lurcking with their Galleys on purpoſe for thoſe Op<g ref="char:EOLhyphen"/>pertunitys,) that our Cruiſers could not come to aſſiſt them, and and in ſight ſometimes of</hi> Gibralter: <hi>which is the higheſt Pro<g ref="char:EOLhyphen"/>vocation, and has been done, to the unſpeakable loſs of Trade,
+<pb n="4" facs="tcp:172248:4"/>
+                  <!-- PDF PAGE 10 -->the Ruining of abundance of Merchants and Sailors: but theſe Evils will be ſufficiently made up and provided againſt by our hav<g ref="char:EOLhyphen"/>ing of Galleys added to our Men of War, that it may be</hi> ſome Thouſands <hi>a Year in this Kingdoms Way, betwen the Trade we may Ingroſs, and what Ships we ſhall ſave of our own, and what we may take of others: for then not a Ship ſhall be ſuffer'd to paſs either coming in or going out but we may ſpeak with them BLOW HIGH, BLOW LOW.</hi>
+            </p>
+            <p>
+               <hi>I ſhall farther Appeal to all</hi> Captains <hi>of Men of War, how Serviceable they may be made vſe off in an Engagement, for to Tow out of the Line all diſabled Ships, and to bring others in their Stations, and if once that we have Galleys at</hi> Gibralter <hi>it will</hi> Awe <hi>the</hi> Algerines <hi>and</hi> Sally Rovers, <hi>and will entirely prevent any Trade by Sea to old Gibralter, and their other Harbours with their ſmall Veſſels that went along</hi> Shore <hi>in the laſt Rupture, and brought them freſh ſupplys that our Men of War could not prevent, it being not ſafe to Venture ſo cloſe in with the Land.</hi>
+            </p>
+            <p>And I ſhall farther Offer, that by ſending thoſe Convicts to our Plantations, and Collonies we find by woefull Ex<g ref="char:EOLunhyphen"/>perience that it does not Anſwer the good Purpoſes for which that Law was Enacted; it neither puts a ſtop to or leſſons the Complaints of the poor Sufferers; for the change of the Climate makes no alterations either in their Man<g ref="char:EOLhyphen"/>ners or Morrals, for the Rude and Diſorderly Practices of thoſe vile Ungovernable People in their Behaviours; has made <hi>Jamaica</hi> and other Parts of the <hi>Weſt-India</hi> Iſlands to entirely refuſe takeing them, and no doubt but other Places will be fore'd to follow their Examles; for their wicked In<g ref="char:EOLhyphen"/>clinations and ill habits are ſtill the ſame, which hurries them to all kinds of Miſchiefs in thoſe Places where they are ſent to and their Baniſhment which was deſign'd as their Pun<g ref="char:EOLunhyphen"/>iſhment they make uſe off to repeat all their forme<g ref="char:punc">▪</g> Villian<g ref="char:EOLunhyphen"/>ies
+<pb n="5" facs="tcp:172248:4"/>
+               <!-- PDF PAGE 10 -->giving of ill examples to their Youths, often Perſwading their <hi>Negros</hi> to Robb their Maſters, and Run away with them; this being the ſole Nurſery for Pirates, they being throughly Quallified for ſo vile baſe, and deſperate an Im<g ref="char:EOLhyphen"/>ploy; that the poor Sufferers that have gone in Danger of their Lives, and been ſadly Abuſed in their Perſons; and have had their Subſtances taken from them, and the over<g ref="char:EOLhyphen"/>ſeting of their Voyages by theſe Savages in the ſhapes of Men, have often Reflected on thoſe that gave them thoſe Oppertunity's, making a Redicul of Tranſportation, telling one another that it is but a Trip over the <hi>Herring-Pond,</hi> (their Paſſages being Paid) <hi>D—ming their Precious Bloods if that Country ſhall hold them long.</hi> Which is the higheſt Contempt of that <hi>Law,</hi> and it ſeems to Boy them up in their vile Practices, and by ſending theſe People there, it diſcourages honeſt People from going there, which might be to the great increaſe of Trade, but it may be hop'd that our Government will take what has been Sincerely offer'd for a Public Good, into their Conſideration, and to Pre<g ref="char:EOLhyphen"/>vent theſe Evils for the Time to Come.</p>
+            <p>But as to the duration of theſe Peoples Servitude, I ſhall not offer to Name but leave that to the Wiſdom and Pru<g ref="char:EOLhyphen"/>dence of the <hi>Law-makers</hi> and their Judges, to the Nature of the Crimes of which they are Convicted off.</p>
+            <p>I ſhall beg leave to Anſwer briefly to ſome Objections, that may be brought againſt this PROPOSAL: <hi>First,</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:172248:5"/>
+               <!-- PDF PAGE 11 -->
+               <hi>It may be a great Expence to the Nation in Building of Galley</hi>
+            </p>
+            <p>I Anſwer, that by what it has coſt the Government, be<g ref="char:EOLhyphen"/>tween the Rewards of thoſe that have been Capitally Convicted, and the <hi>Four Pounds Four Shillings</hi> for ſuch Numbers of theſe vile People, that have been Tranſported ſince this King came to the Crown; but that it may be made appear, that they will far out Ballance the Charge of Building a ſufficient Number of <hi>Galleys,</hi> and if I might offer further without Diſobligeing of any Captains of Men of War or others, that the Charge of one <hi>Third Rate,</hi> in ſiting her out for the Sea, by a Modeſt Computation; will far ſurmou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Coſt of Eight <hi>Galleys.</hi> But I humbly beg that I may be underſtood, that I am not for leſſoning of any one Ship, in His Majeſty's Royal Navy, which is ſo much the Glory and Defence of theſe Kingdoms, and the Terror of the whole World: but that Galleys may be aded as Tenders or as ſhall be Thought moſt for Service to them.</p>
+            <p>
+               <hi>Another Objection is, How many</hi> Galleys <hi>will be Sufficient to im<g ref="char:EOLhyphen"/>ploy ſuch Numbers, that are ſent away from Time to Time.</hi>
+            </p>
+            <p>I Anſwer, Eight may be enough, Four or Six at <hi>Gibral<g ref="char:EOLhyphen"/>ter,</hi> the other at <hi>Port Mayhone,</hi> as ſhall be Thought moſt for Service, every Galley to imploy 312 Men a Board, ſo that I humbly do Conceive by what ſhocking Terrors it may cauſe on the one Hand, and the ſo ſhurely Secureing them on the other, Puting it out of their Powers to be ever Tranſported more than once, as ſome have been from dif<g ref="char:EOLhyphen"/>ferent Places by fictions Names, ſo that they will be Reduc<g ref="char:EOLhyphen"/>ed to ſuch ſmall Numbers, more than ever could yet be done by <hi>DEATHS</hi> or <hi>BANISHMENT.</hi>
+            </p>
+            <p>And it is plain that we have had more Robbing in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in one Month, than is in <hi>Italy, Spain</hi> and <hi>Portugal,</hi> in Twelve Months; and its thought it is oweing to thoſe
+<pb n="7" facs="tcp:172248:5"/>
+               <!-- PDF PAGE 11 -->Countrys having of Galleys, puting it out of their Powers of theſe People to play at <hi>FAST</hi> and <hi>LOOSE,</hi>
+            </p>
+            <p>
+               <hi>Another Objection may be, that it is offered againſt a free People</hi>
+            </p>
+            <p>Anſwer<g ref="char:punc">▪</g> I humbly Conceive that by Breaking of the Kings Laws by taking away the Lives or Goods or Threat<g ref="char:EOLhyphen"/>ening to Murder burn, or deſtroy, them or their Goods in order to extort Moneys from any of his Majeſtys Subjects, when any ſuch are Convicted by Evidence, they have loft all Pleadings of their Freedoms, but is entirely at the Laws and Kings Diſpoſal; whether for Life Death or Baniſh<g ref="char:EOLhyphen"/>ment, longer impriſoument or Liberty: and Tranſportation was at firſt well deſignd, and very ſhocking, tho' thought to be as great a breaking into the Rights and Freedoms of theſe People; as now Galleys is Offer'd to the ſame intents &amp; Purpoſes, for a National Service: tho' Tranſportation has of late Years prov'd the Reverſe; now if they are ſent to <hi>Giberalter.</hi> they nor their old Companions in Sin, cannot Boy up themſelves in Runing away at Pleaſure, but may be imploy'd though in times of Peace, in Building ſome Neceſſary Fortificatitons there, and at <hi>Port Mayhone,</hi> as may render thoſe Places <hi>IMPREGNABLE.</hi>
+            </p>
+            <p>
+               <hi>Another Objection that may be brought againſt this is, that ſome Men would rather Chuſe Death, than to ſuffer them<g ref="char:EOLhyphen"/>ſelves to be thus Confined.</hi>
+            </p>
+            <p>Anſwer, that it is the Unhappy Temper of ſome Men, that they never was, or deſired to be made uſefully Good, or Morrally Honeſt; for their Exorbitant Humours which admits of no Bounds, when that comes to have a Reſtraint put upon it by the juſt Methods of the Law: It either flings them into thoſe vile wild Reſolutions, that had always been their Directors to chuſe Death, Rather then to undergo theſe gentle Severeties, or elſe it ſo Diſpirits. them by a ſullen Change of their minds that they wou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d alſo Rather
+<pb n="8" facs="tcp:172248:6"/>
+               <!-- PDF PAGE 12 -->prefer Death in all its heidous forms, than be brought un<g ref="char:EOLhyphen"/>der any Subjection: like ſome Creatures that I have ſeen in <hi>Virginia,</hi> when firſt caught. wrangles with their Maſters and Yoke, and Endeaver to be their own Executionres which when by degrees, after proves of very great uſe and ſo may they made to be Servicable both to God and their Country, and run wild no longer.</p>
+            <p>
+               <hi>The main Objection that can be brought againſt this Propoſal is, that as it is</hi> Peace, <hi>we have no Occaſion for</hi> Galleys.</p>
+            <p>I Anſwer as all wiſe <hi>Parents</hi> provides the <hi>Rod,</hi> and has it fixt in a proper Place, ready to make uſe off when nece<g ref="char:EOLhyphen"/>ſſity requires it; and as his <hi>Majeſty, Lords</hi> and <hi>Commons,</hi> are the <hi>Nations Parents,</hi> ſo they are not to depend upon be<g ref="char:EOLhyphen"/>ing allways ſo: with <hi>Frence</hi> and ſome others, that are our Rivals in many Branches of Trade in the <hi>Mediterranian,</hi> and we hear how Induſtrious the Spaniards are at this Time in Forrifying <hi>Caprita Point,</hi> and the Bay of <hi>Gibralter,</hi> againſt any Rupture: and it may be hoped that our <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> will be as Thoughtful and Induſtrious to Promote things for a Publick Service as they are; and no doubt but that Galleys will fully Anſwer to what has been Propoſed and be as great a <hi>Thorn</hi> in the Eyes of any Nation, with whom we may have Diſputes, as any one Thing we can do to our farther Preſervation of Trade.</p>
+            <p>☞ This Propoſal is to check Robbing, and other Villi<g ref="char:EOLhyphen"/>aney and a tender Regard for the Lives of Thouſands of young Men; the Good of our <hi>Men of War</hi> and <hi>Merchant's-Ships</hi> in the <hi>Straights;</hi> an additional Strength to <hi>Gihralter.</hi> the Peace and Quiet of our Collonies abroad, and a pre<g ref="char:EOLhyphen"/>vention for <hi>Pirats.</hi> And offer'd by a Perſon; that is well ac<g ref="char:EOLhyphen"/>quainted with this Propoſal; and hopes may deſerve the Conſideration of both <hi>Houſes of Parliament.</hi>
+            </p>
+            <byline>By <hi>JOS. DAVIES.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172248:6"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </body>
+   </text>
+</TEI>
